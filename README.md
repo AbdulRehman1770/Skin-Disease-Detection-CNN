@@ -66,9 +66,3 @@ To make this tool accessible and easy to test for non-technical field workers or
 
 ---
 
-## 🚀 How To Setup and Run
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/Skin-Diseases-Detection.git](https://github.com/YOUR_USERNAME/Skin-Diseases-Detection.git)
-cd Skin-Diseases-Detection
